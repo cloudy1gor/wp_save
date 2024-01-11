@@ -1,6 +1,6 @@
 *.idea
-/src/themes/*
-/src/plugins/*
+# /src/themes/*
+# /src/plugins/*
 
 # To exclude some themes or plugins use the example bellow
 !/src/themes/theme-name
