@@ -22,6 +22,11 @@ include_once get_template_directory() . '/inc/post_type_team.php';
  */
 include_once get_template_directory() . '/inc/post_type_testimonials.php';
 
+/*
+ * ACF init
+ */
+include_once get_template_directory() . '/inc/acf_init.php';
+
 /**
  * Sets up theme defaults and registers support for various WordPress features.
  */
